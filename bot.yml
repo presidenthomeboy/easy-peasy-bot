@@ -1,6 +1,6 @@
 name: DALEKS
 description: A simple node.js bot
-avatar: daleks.png
+avatar: avatar.png
 config:
   - name: APIAI_TOKEN
     friendly_name: API.AI developer token
